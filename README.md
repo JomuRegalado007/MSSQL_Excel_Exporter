@@ -90,7 +90,7 @@ PWD=your_password;
 
 ---
 
-##Screenshots
+## Screenshots
 
 - GUI Build result:
 
