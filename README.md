@@ -91,3 +91,4 @@ PWD=your_password;
 ---
 
 **Screenshots
+![GUI Screenshot](https://github.com/JomuRegalado007/MSSQL_Excel_Exporter/blob/main/image/SQL_GUI.jpg)
